@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Create Online Notes**
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **JAVA full Stack Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samiksha-Mule](https://github.com/Nitin-Bhawarkar?tab=repositories)
 
@@ -41,4 +41,4 @@ Footer
 © 2023 GitHub, Inc.
 
 About
-Nitin-Bhawarkar/README.md at main · Nitin-Bhawarkar/Nitin-Bhawarkar 
+Samiksha-Mule/README.md at main · Samiksha-Mule/Samiksha-Mule 
