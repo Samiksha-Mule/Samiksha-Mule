@@ -21,8 +21,7 @@ I am eager to contribute my expertise to company and be a part of dynamic team t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhawarkarnitin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhawarkarnitin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nitinbhawarkar14jan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samiksha-mule/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samiksha-mule-8abb78264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samiksha-mule/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
