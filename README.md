@@ -1,7 +1,3 @@
-
-
-![MasterHead](https://github.com/Nitin-Bhawarkar/Nitin-Bhawarkar/blob/main/GitHub_Banner.pnng)
-
 <h1 align="center">Hi 👋, I'm Samiksha Mule</h1>
 <h3 align="center">Java Full STACK Developer from India</h3>
 
@@ -10,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-bhawarkar&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-bhawarkar" /> </p>
 
 
-- 🔭 I’m currently working on **Create Online Notes**
+- 🔭 I’m currently Technogies technologies **Java Fullstack Developer **
 
 - 🌱 I’m currently learning **JAVA full Stack Development.**
 
