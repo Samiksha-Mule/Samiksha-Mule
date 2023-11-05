@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-bhawarkar&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-bhawarkar" /> </p>
 
-<h4>I'm Samiksha, a coder form India who's deeply enthusiastic about Software Development and Technologies. i firmly believe that code has the amazing ability to bring ideas into realistic world</h4>
+<h4>I'm Samiksha, a coder form India who's deeply enthusiastic about Software Development and Technologies. I firmly believe that code has the amazing ability to bring ideas into realistic world</h4>
 
 I'm well-versed in Front End Technologies like HTML, CSS and JavaScript, Backend Technologies Like Java, JDBC, Servlet, JSP and Hibernate, Database like RDBMS, SQL.
 
@@ -15,14 +15,9 @@ I am eager to contribute my expertise to company and be a part of dynamic team t
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samiksha-Mule](https://github.com/Samiksha-Mule)
 
-- 📝 I regularly write articles on [https://sciencekite.blogspot.com/](https://sciencekite.blogspot.com/)
-
 - 📫 How to reach me
-- <a href="mailto:samikshapmule@gmail.com">samikshapmule@gmail.com</a>
+- <a href="samikshapmule@gmail.com">samikshapmule@gmail.com</a>
 - <a href="https://github.com/Samiksha-Mule">Git-Hub</a>
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/10uQSqUAsPOd3bwEkCl6LCXxfGG3G-xzE/view]
-- ⚡ Fun fact **I Think. This is Awesome.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
