@@ -1,20 +1,25 @@
-<h1 align="center">Hi 👋, I'm Samiksha Mule</h1>
-<h3 align="center">Java Full STACK Developer from India</h3>
+<h1 align="center">Hi, I'm Samiksha Mule</h1>
+<h3 align="center">Java Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-bhawarkar&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-bhawarkar" /> </p>
 
+<h4>I'm Samiksha, a coder form India who's deeply enthusiastic about Software Development and Technologies. i firmly believe that code has the amazing ability to bring ideas into realistic world</h4>
 
-- 🔭 I’m currently Technogies technologies **Java Fullstack Developer **
+I'm well-versed in Front End Technologies like HTML, CSS and JavaScript, Backend Technologies Like Java, JDBC, Servlet, JSP and Hibernate, Database like RDBMS, SQL.
 
-- 🌱 I’m currently learning **JAVA full Stack Development.**
+I am eager to contribute my expertise to company and be a part of dynamic team that thrives on solving problems and delivering exceptional software solutions.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Samiksha-Mule](https://github.com/Nitin-Bhawarkar?tab=repositories)
+- 🔭 I’m currently Learning Technologies and Frameworks related <b>Java Fullstack Developer<b>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Samiksha-Mule](https://github.com/Samiksha-Mule)
 
 - 📝 I regularly write articles on [https://sciencekite.blogspot.com/](https://sciencekite.blogspot.com/)
 
-- 📫 How to reach me **samikshapmule@gmail.com**
+- 📫 How to reach me
+- <a href="mailto:samikshapmule@gmail.com">samikshapmule@gmail.com</a>
+- <a href="https://github.com/Samiksha-Mule">Git-Hub</a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10uQSqUAsPOd3bwEkCl6LCXxfGG3G-xzE/view]
 - ⚡ Fun fact **I Think. This is Awesome.**
