@@ -8,7 +8,7 @@
 </p>
 
 <h4>
-  I'm Samiksha, a passionate .NET Full Stack Developer from India with 1.4+ years of experience in building scalable and maintainable enterprise applications. I love solving complex problems through clean and efficient code. I believe in writing software that is not only functional but also elegant and robust.
+  I'm Samiksha, a passionate .NET Full Stack Developer from India with 1.5+ years of experience in building scalable and maintainable enterprise applications. I love solving complex problems through clean and efficient code. I believe in writing software that is not only functional but also elegant and robust.
 </h4>
   
 <p>
